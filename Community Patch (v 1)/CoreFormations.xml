@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/15/2014 6:53:53 PM -->
+<GameData>
+	<MultiUnitFormations>
+		<Row>
+			<Name>Naval Escort</Name>
+			<Type>MUFORMATION_NAVAL_ESCORT</Type>
+			<Description>MUFORMATION_NAVAL_ESCORT</Description>
+			<RequiresNavalUnitConsistency>true</RequiresNavalUnitConsistency>
+		</Row>
+	</MultiUnitFormations>
+	<MultiUnitFormation_SlotEntries>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ATTACK_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_RESERVE_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+			<RequiredSlot>true</RequiredSlot>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ASSAULT_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_RESERVE_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+			<RequiredSlot>true</RequiredSlot>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ASSAULT_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_RESERVE_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ATTACK_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_RESERVE_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ATTACK_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_ASSAULT_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ASSAULT_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_ATTACK_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+		</Row>
+		<Row>
+			<MultiUnitFormationType>MUFORMATION_NAVAL_ESCORT</MultiUnitFormationType>
+			<PrimaryUnitType>UNITAI_ATTACK_SEA</PrimaryUnitType>
+			<SecondaryUnitType>UNITAI_ASSAULT_SEA</SecondaryUnitType>
+			<MultiUnitPositionType>MUPOSITION_FRONT_LINE</MultiUnitPositionType>
+		</Row>
+	</MultiUnitFormation_SlotEntries>
+</GameData>
