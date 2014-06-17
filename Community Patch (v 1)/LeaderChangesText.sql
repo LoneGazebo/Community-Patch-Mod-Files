@@ -57,7 +57,7 @@ SET Text = 'Units move through Forest and Jungle in friendly territory as if the
 WHERE Tag = 'TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='COMMUNITY_CORE_BALANCE_CIVS' AND Value= 1 );
 
 UPDATE Language_en_US
-SET Text = 'Choose one more Belief than normal when you found a Religion. Receive a free Temple in your Capital.'
+SET Text = 'Choose one more Belief than normal when you found a Religion. Receive a free Shrine in your Capital at Pottery, and two free Temples in your first two cities at Theology.'
 WHERE Tag = 'TXT_KEY_TRAIT_EXTRA_BELIEF' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='COMMUNITY_CORE_BALANCE_CIVS' AND Value= 1 );
 
 UPDATE Language_en_US

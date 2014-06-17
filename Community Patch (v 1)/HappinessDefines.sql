@@ -2,7 +2,7 @@
 -- Base value; -1 Disables -->
 	INSERT INTO Defines (
 	Name, Value)
-	SELECT 'BALANCE_HAPPINESS_EMPIRE_MOD', '1'
+	SELECT 'BALANCE_HAPPINESS_EMPIRE_MOD', '-1'
 	WHERE EXISTS (SELECT * FROM COMMUNITY WHERE Type='COMMUNITY_CORE_BALANCE_HAPPINESS' AND Value= 1 );
 
 -- Division line for when happiness bonuses begin. Happiness above threshold grants bonus.  --

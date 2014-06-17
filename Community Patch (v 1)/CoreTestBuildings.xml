@@ -176,4 +176,16 @@
 			</Text>
 		</Row>
 	</Language_en_US>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_BATH</BuildingType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BARRACKS</BuildingType>
+			<YieldType>YIELD_GREAT_GENERAL_POINTS</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldChanges>
 </GameData>

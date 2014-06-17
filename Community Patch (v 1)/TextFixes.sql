@@ -1,4 +1,4 @@
--- Insert SQL Rules Here 
+-- Fixed diacritics for spy names.
 
 UPDATE Language_en_US
 SET Text = 'Antônio'

@@ -23,4 +23,30 @@
 			<Yield>1</Yield>
 		</Row>
 	</Policy_PlotYieldChanges>
+	<Yields>
+		<Row>
+			<ID>6</ID>
+			<Type>YIELD_GOLDEN_AGE_POINTS</Type>
+			<Description>TXT_KEY_YIELD_GOLDEN_AGE_POINTS</Description>
+			<IconString>[ICON_GOLDEN_AGE]</IconString>
+			<MinCity>0</MinCity>
+			<AIWeightPercent>50</AIWeightPercent>
+		</Row>
+		<Row>
+			<ID>7</ID>
+			<Type>YIELD_GREAT_GENERAL_POINTS</Type>
+			<Description>TXT_KEY_YIELD_GREAT_GENERAL_POINTS</Description>
+			<IconString>[ICON_GOLDEN_AGE]</IconString>
+			<MinCity>0</MinCity>
+			<AIWeightPercent>50</AIWeightPercent>
+		</Row>
+		<Row>
+			<ID>8</ID>
+			<Type>YIELD_GREAT_ADMIRAL_POINTS</Type>
+			<Description>TXT_KEY_YIELD_GREAT_ADMIRAL_POINTS</Description>
+			<IconString>[ICON_GOLDEN_AGE]</IconString>
+			<MinCity>0</MinCity>
+			<AIWeightPercent>50</AIWeightPercent>
+		</Row>
+	</Yields>
 </GameData>

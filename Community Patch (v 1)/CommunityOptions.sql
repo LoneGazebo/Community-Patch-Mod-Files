@@ -81,3 +81,13 @@ Changes to Civilization Traits
 INSERT INTO COMMUNITY (Type, Value)
 VALUES ('COMMUNITY_CORE_BALANCE_CIVS', 0);
 
+/*
+Changes to Promotions
+1 = Enabled (Default)
+0 = Disabled 
+*/
+
+INSERT INTO COMMUNITY (Type, Value)
+VALUES ('COMMUNITY_CORE_BALANCE_PROMOTIONS', 1);
+
+
